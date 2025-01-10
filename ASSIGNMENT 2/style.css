@@ -1,0 +1,179 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    border-radius: 0px;
+    /* background-image: url(web\ image.webp); */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+h4 {
+    color: indigo;
+}
+
+.head1 {
+    color: aqua;
+}
+
+#head1 {
+    color: red;
+    background-color: blue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    align-items: center;
+}
+
+.div1 {
+    background-color: orange;
+    text-align: end;
+
+}
+
+.fb1 {
+    background-color: purple;
+    width: 700px;
+    height: 500px;
+    text-align: center;
+    margin-left: 23%;
+    margin-top: 50PX;
+    position: absolute;
+}
+
+.fb2 {
+    background-color: gold;
+    width: 650px;
+    height: 450px;
+    position: absolute;
+    left: 340px;
+    top: 70px;
+
+}
+
+.fb3 {
+    background-color: brown;
+    width: 600px;
+    height: 400px;
+    position: absolute;
+    left: 363px;
+    top: 95px;
+}
+
+.fb4 {
+    background-color: blue;
+    width: 550px;
+    height: 350px;
+    position: absolute;
+    left: 389px;
+    top: 120px;
+
+}
+
+.fb5 {
+    background-color: green;
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    left: 415px;
+    top: 150px;
+}
+
+.fb6 {
+    background-color: orchid;
+    width: 450px;
+    height: 250px;
+    position: absolute;
+    left: 440px;
+    top: 175px;
+}
+
+.fb7 {
+    background-color: yellow;
+    width: 400px;
+    height: 220px;
+    position: absolute;
+    left: 465px;
+    top: 190px;
+}
+
+.fb8 {
+    background-color: black;
+    width: 350px;
+    height: 180px;
+    position: absolute;
+    left: 489px;
+    top: 210px;
+}
+
+.fb9 {
+    background-color: pink;
+    width: 300px;
+    height: 150px;
+    position: absolute;
+    left: 512px;
+    top: 225px;
+}
+
+.fb10 {
+    background-color: aquamarine;
+    width: 250px;
+    height: 130px;
+    position: absolute;
+    left: 540px;
+    top: 235px;
+}
+
+.fb11 {
+    background-color: white;
+    width: 200px;
+    height: 115px;
+    position: absolute;
+    left: 565px;
+    top: 243px;
+}
+
+.fb12 {
+    background-color: red;
+    width: 150px;
+    height: 100px;
+    position: absolute;
+    left: 590px;
+    top: 250px;
+}
+
+.oll {
+    position: relative;
+    left: 1060px;
+    top: 600px;
+
+}
+
+.ee {
+    background-color: blueviolet;
+    width: 500px;
+    height: 300px;
+    position: relative;
+}
+
+.ll {
+    background-color: gold;
+    width: 500px;
+    height: 300px;
+    position: relative;
+    left: 300px;
+    
+
+}
+.bcb{
+background-color: red;
+color: aliceblue;
+width: 1000px;
+margin-left: 100px;
+text-shadow: 4px -3px 4px blue;
+margin-top: 200px;
+}
+.OLO:hover{
+    background-color: blue;
+    width: 200px;
+
+}
